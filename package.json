@@ -1,0 +1,28 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/alokraj16/react-app-learning#readme",
+  "bugs": {
+    "url": "https://github.com/alokraj16/react-app-learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alokraj16/react-app-learning.git"
+  },
+  "license": "ISC",
+  "author": "AlokRaj",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jtest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1"
+  }
+}
